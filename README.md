@@ -3,11 +3,9 @@
 
 ---
 
-Name: Nishanth Mallekav
+Name: Shiva Kuppa
 
-Date: Tuesday May 12th
-
-Project Topic: Anime Ranker
+Project Topic: Movie Ranker
 
 URL: http://localhost:3000/
 
