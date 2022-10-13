@@ -1,5 +1,5 @@
 
-# PROJECT NAME
+# MOVIE RANKER
 
 ---
 
